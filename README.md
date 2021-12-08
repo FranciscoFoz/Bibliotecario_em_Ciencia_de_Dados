@@ -1,5 +1,7 @@
 # Bibliotecario em Ciencia de Dados
 
+![](https://raw.githubusercontent.com/FranciscoFoz/Bibliotecario_em_Ciencia_de_Dados/main/Imagens/Data_Science_Zero.jpg)
+
 Neste repositório disponibilizarei os códigos de estudo do livro "Data Science do Zero: Primeiras Regras com Python" do Joel Grus. 
 No projeto do "Bibliotecário se aventurando em Ciência de Dados" guiado por mim, motivado pela Alura.
 
