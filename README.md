@@ -1,6 +1,8 @@
 # Bibliotecário em Ciência de Dados
 
-![](https://raw.githubusercontent.com/FranciscoFoz/Bibliotecario_em_Ciencia_de_Dados/main/Imagens/Data_Science_Zero.jpg)
+<p align="center"> 
+<img src="https://raw.githubusercontent.com/FranciscoFoz/Bibliotecario_em_Ciencia_de_Dados/main/Imagens/Data_Science_Zero.jpg"></a> 
+</p>
 
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
 
