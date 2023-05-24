@@ -19,4 +19,5 @@ Confira os artigos do medium:
 * **Capítulo 5** - Estatística Descritiva com Python <a href="https://franciscofoz.medium.com/bibliotec%C3%A1rio-em-ci%C3%AAncia-de-dados-estat%C3%ADstica-descritiva-com-python-b999e5e1d0d8" target="_blank">link</a> </p>
 * **Capítulo 6** - Bibliotecário em Ciência de Dados: Introdução a probabilidade com Python <a href="https://franciscofoz.medium.com/bibliotec%C3%A1rio-em-ci%C3%AAncia-de-dados-introdu%C3%A7%C3%A3o-a-probabilidade-com-python-6b2adb863d0f" target="_blank">link</a> </p>
 * **Capítulo 7** - Bibliotecário em Ciência de Dados: Introdução aos testes de hipóteses com Python <a href="https://franciscofoz.medium.com/bibliotec%C3%A1rio-em-ci%C3%AAncia-de-dados-introdu%C3%A7%C3%A3o-aos-testes-de-hip%C3%B3teses-com-python-e21404bb1097" target="_blank">link</a> </p>
+* **Capítulo 8** - Bibliotecário em ciência de dados: Uma introdução ao gradiente e descendente <a href="https://franciscofoz.medium.com/bibliotec%C3%A1rio-em-ci%C3%AAncia-de-dados-uma-introdu%C3%A7%C3%A3o-ao-gradiente-e-descendente-f6f2a39a55de" target="_blank">link</a> </p>
 
